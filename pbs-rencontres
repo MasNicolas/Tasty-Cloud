@@ -1,0 +1,14 @@
+// Item.vue :
+//  l.27 > Image pas sous le meme format, est-ce que cela pose un problème ?
+// Panier.vue :
+//  l.29 > ToFixed(0) necessaire au cas ou ?
+//  l.39 > Pas ajouté au debut
+// Index.js :
+//  l.11 > autre option que meta ?
+//
+//Probleme de responsivité du header et footer vers ~250px
+//
+//
+//
+//
+//
